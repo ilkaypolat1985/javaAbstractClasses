@@ -1,6 +1,6 @@
 public class WomanGameCalculator extends GameCalculator {
     @Override
     public void calculate() {
-        System.out.println("Your score : 95");
+        System.out.println("Your score : 85");
     }
 }
